@@ -1,3 +1,3 @@
 # File Names  
-The **info-** files are the word files showing all the weekly progeress.  
-The **week-** files are power BI files which show the progress till the specific week.
+The _info-_ files are the word files showing the progress till the specific week. 
+The _week-_ files are power BI files which shows the progress till the specific week.
